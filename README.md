@@ -9,7 +9,7 @@
 160 /data/data/com.termux
 ```
 
-### copy the to */sdcard/hansgisk/*
+### copy the file to */sdcard/hansgisk/*
 
 ```sh
 adb -s 127.0.0.1:5556 push C:\Users\hansc\Desktop\blissin\folderfile.txt /sdcard/hansgisk/
